@@ -1,0 +1,6 @@
+@BotRRHH_HostAddress = http://localhost:5133
+
+GET {{BotRRHH_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
